@@ -138,7 +138,7 @@ c.NotebookApp.port = 8888
 # c.NotebookApp.tornado_settings = traitlets.Undefined
 
 # The directory to use for notebooks and kernels.
-c.NotebookApp.notebook_dir = u'/home/ec2-user'
+c.NotebookApp.notebook_dir = u'/home/ec2-user/Notebooks'
 
 # The kernel manager class to use.
 # c.NotebookApp.kernel_manager_class = <class 'notebook.services.kernels.kernelmanager.MappingKernelManager'>
