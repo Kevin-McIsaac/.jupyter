@@ -1,2 +1,5 @@
-.container { width:100% !important; }
+div#menubar-container, div#header-container, div#ipython-main-app {
+  width: auto;
+}
+
 
